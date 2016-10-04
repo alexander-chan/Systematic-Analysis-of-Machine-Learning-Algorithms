@@ -1,0 +1,23 @@
+ALGORITHMNAME_TRAIN%%_TEST%%_TrainIntials_TestInitials
+
+________________________________________________
+ALGORITHMNAME - The algorithm that is used to create the model
+	BA - Bayesian
+	BO - Boosting
+	SV - SVM
+	RF - RandomForest
+	KN - KNN
+TRAIN%% and TEST%% - The randomized portion of the data that was used to train the model or test a model, in two digit percentage 
+	Note - 00 means 100%
+	Ex. - 33 means 33% of data
+
+TrainInitials and TestInitials - a string of 2 character initials in alphabetical order which represents from who the data is from
+	AC - Alex Chan
+	AT - Alex Turner
+	BF - Brandon Foss
+	CE - Chris Early
+	DP - Daniel Pareja
+	HC - Hensu Choi
+	JF - Joseph Flinn
+	JN - Jessie Ngan
+

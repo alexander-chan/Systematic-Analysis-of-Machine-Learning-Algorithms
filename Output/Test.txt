@@ -1,0 +1,78 @@
+Order of Output Data.
+
+1. RandomForest
+2. Boosting
+3. Support Vector Machine (SVM)
+4. K-Nearest Neighbors (KNN)
+5. Bayes
+
+______________________________________
+Using OpenCV version 2.4.9
+
+RandomForest
+
+Confusion Matrix:
+	         1       0
+	1     8064       0
+	0      232    1777
+
+Test Results:
+	Correct classifications: 9841 (97.6968%)
+	Incorrect classifications: 232 (2.30319%)
+	Modeling: 2.858135 sec.
+	Testing: 0.689138 sec.
+
+Using OpenCV version 2.4.9
+
+Boosting
+
+Confusion Matrix:
+	         1       0
+	1     8064       0
+	0      202    1807
+
+Test Results:
+	Correct classifications: 9871 (97.9946%)
+	Incorrect classifications: 202 (2.00536%)
+	Modeling: 0.048862 sec.
+	Testing: 0.008016 sec.
+
+Using OpenCV version 2.4.9
+
+Confusion Matrix:
+	         1       0
+	1     8064       0
+	0      529    1480
+
+Test Results:
+	Correct classifications: 9544 (94.7483%)
+	Incorrect classifications: 529 (5.25166%)
+	Modeling: 0.432506 sec.
+	Testing: 0.375562 sec.
+
+Using OpenCV version 2.4.9
+
+Confusion Matrix:
+	         1       0
+	1     8018      46
+	0      537    1472
+
+Test Results:
+	Correct classifications: 9490 (94.2123%)
+	Incorrect classifications: 583 (5.78775%)
+	Modeling: 0.005465 sec.
+	Testing: 2.523960 sec.
+
+Using OpenCV version 2.4.9
+
+Confusion Matrix:
+         1       0
+1     2031    6033
+0       49    1960
+
+Test Results:
+	Correct classifications: 3991 (39.6208%)
+	Incorrect classifications: 6082 (60.3792%)
+	Modeling: 0.007816 sec.
+	Testing: 0.012056 sec.
+

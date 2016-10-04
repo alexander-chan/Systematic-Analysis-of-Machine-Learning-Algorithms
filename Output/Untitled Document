@@ -1,0 +1,49 @@
+	string p = "MathMult/";	
+	string g00 = "alex_game_06252015_1.txt";
+	string g01 = "alex_game_06252015_2.txt";
+	string g02 = "alex_game_06292015_2.txt";
+	string g03 = "alex_game_06302015_1.txt";
+	string g04 = "alex_game_06302015_2.txt";
+	
+	string i00 = "alex_idle_062315_1.txt";
+	string i01 = "alex_idle_06232015_2.txt";
+	string i02 = "alex_idle_06242015_1.txt";
+	string i03 = "alex_idle_06252015_1.txt";
+	string i04 = "alex_idle_06252015_2.txt";
+	string i05 = "alex_idle_06292015_2.txt";
+	string i06 = "alex_idle_06302015_1.txt";
+	string i07 = "alex_idle_06302015_2.txt";
+
+	string g10 = "Brandon_game_062315_02.txt";
+	string g11 = "brandon_game_062315_1.txt";
+	string g12 = "Brandon_game_06232015_3.txt";
+	string g13 = "Brandon_game_06292015_5.txt";
+	string g14 = "Brandon_game_06302015_6.txt";
+	string g15 = "Brandon_game_06302015_7.txt";
+	string g16 = "Brandon_game_06302015_8.txt";
+	
+	string i10 = "brandon_idle_062315_1.txt";
+	string i11 = "brandon_idle_062315_2.txt";
+	string i12 = "Brandon_idle_06242015_3.txt";
+	string i13 = "Brandon_idle_06252015_4.txt";
+	string i14 = "Brandon_idle_06292015_5.txt";
+	string i15 = "Brandon_idle_06302015_6.txt";
+	string i16 = "Brandon_idle_06302015_7.txt";
+	string i17 = "Brandon_idle_06302015_8.txt";
+	
+	string g20 = "chris_game_062315_1.txt";
+	string g21 = "chris_game_062315_2.txt";
+	string g22 = "chris_game_062415_1.txt";
+	string g23 = "chris_game_062515_1.txt";
+	string g24 = "chris_game_062515_2.txt";
+	string g25 = "chris_game_063015_1.txt";
+	string g26 = "chris_game_063015_2.txt";
+	string g27 = "chris_game_063015_3.txt";
+
+	string i20 = "chris_idle_062315_1.txt";
+	string i21 = "chris_idle_062415_1.txt";
+	string i22 = "chris_idle_062515_1.txt";
+	string i23 = "chris_idle_062515_2.txt";
+	string i24 = "chris_idle_063015_1.txt";
+	string i25 = "chris_idle_063015_2.txt";
+	string i26 = "chris_idle_063015_3.txt";
