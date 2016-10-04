@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.0)
+project(dataProcess)
+find_package(OpenCV REQUIRED)
+add_executable(dataProcess dataProcess.cpp)
+target_link_libraries(dataProcess ${OpenCV_LIBS})
+add_definitions(-std=c++11)
