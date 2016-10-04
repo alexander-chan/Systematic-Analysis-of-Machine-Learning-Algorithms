@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project( Bayes )
+find_package( OpenCV REQUIRED )
+add_executable( Bayes Bayes.cpp )
+target_link_libraries( Bayes ${OpenCV_LIBS} )
+add_definitions(-std=c++11)
